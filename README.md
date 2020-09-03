@@ -25,7 +25,7 @@ Refs:
 * http://timgolden.me.uk/pywin32-docs/win32pipe.html
 * https://docs.microsoft.com/en-us/windows/win32/api/namedpipeapi/nf-namedpipeapi-getnamedpipeinfo
 
-#Usage
+# Usage
 ```
 Example usage:
 (pipes) C:\Users\admin\Documents\pipes>python pypipelist.py
