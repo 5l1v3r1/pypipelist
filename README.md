@@ -14,7 +14,7 @@
 This tool performs the same actions as SysInternal's pipelist but performs additional queries to
 provide a lot more useful information.
 
-This tool is noisy (see getpipeperms()). It's designed for research not stealth.
+This tool is noisy (see getpipeperms()) as it opens multiple handles. It's designed for research not stealth.
 
 This is work in progress... needs a fair bit of TLC.
 
