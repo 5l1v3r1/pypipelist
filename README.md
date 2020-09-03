@@ -52,8 +52,8 @@ eventlog                                     Perms.W   proc=svchost.exe:1236    
 ...SNIPPED...
 ```
 
-DK @withdk. 
-https://github.com/withdk. 
+DK @withdk  
+https://github.com/withdk  
 August 2020  
 
 ## Disclaimer
